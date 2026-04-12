@@ -5,4 +5,4 @@ You can [watch the whole thing here](https://www.youtube.com/watch?v=3quYcNI3dOs
 
 While I [downloaded the **SWF** files](https://eye.swfchan.com/search/?q=there+she+is), they belong to their respective owners: [SamBakZa](https://sambakza.net/).
 
-[Enjoy it](https://youtu.be/3quYcNI3dOs?t=1404).
+Use `python -m http.server` and [enjoy it](https://youtu.be/3quYcNI3dOs?t=1404).
