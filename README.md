@@ -5,6 +5,6 @@ You can [watch the whole thing here](https://www.youtube.com/watch?v=3quYcNI3dOs
 
 While I [downloaded the **SWF** files](https://eye.swfchan.com/search/?q=there+she+is), they belong to their respective owners:
 
-Find them on [Newgrounds](https://sambakza.newgrounds.com/movies), [Youtube](https://www.youtube.com/@amalloc/videos) or [their website](https://shopsambakza.net/).)
+Find them on [Newgrounds](https://sambakza.newgrounds.com/movies), [Youtube](https://www.youtube.com/@amalloc/videos) or [their website](https://shopsambakza.net/).
 
 Use `python -m http.server` and [enjoy it](https://youtu.be/3quYcNI3dOs?t=1404).
